@@ -162,10 +162,7 @@ cd SC3021
 ## 👥 Contributors
 
 - Jian Hao
-- SC3021 Project Group 9
+- Ajitesh
+- Ignatius
 
 ---
-
-## 📜 License
-
-This project was completed as part of **SC3021** at **Nanyang Technological University (NTU)**.
